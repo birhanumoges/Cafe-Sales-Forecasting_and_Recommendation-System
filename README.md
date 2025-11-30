@@ -198,6 +198,8 @@ It's offers a complete analytical framework to improve sales forecasting,improve
 - Supporting small business digitization through data
 
 ---
-
+### future idea
+- Add AI recommendation system
+- interactive dashboard 
 
 
