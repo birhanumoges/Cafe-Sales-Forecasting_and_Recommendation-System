@@ -207,5 +207,7 @@ It's offers a complete analytical framework to improve sales forecasting,improve
 ### Inspiration
 - Data Science blogs & competitions
 - Open-source ML projects
+- Open-source ML projects
+- Inspired by GitHub trending projects
 
 
