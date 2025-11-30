@@ -205,9 +205,10 @@ It's offers a complete analytical framework to improve sales forecasting,improve
 - Python
 
 ### Inspiration
-- Data Science blogs & competitions
-- Open-source ML projects
-- Open-source ML projects
-- Inspired by GitHub trending projects
+- Data science blogs: Tutorials on time series forecasting, collaborative filtering, and predictive modeling.
+- AI research papers: Algorithms like LSTM, ARIMA, and matrix factorization guided the model selection.
+- Visualization & dashboards: Interactive dashboards from Plotly, Dash, and Streamlit inspired the UI.
+- Tech stack ideas: Combining  machine learning, and real-time recommendation logic.
+- Open-source ML projects: Look at repositories on GitHub and at different websites that use time series forecasting, sales prediction, or recommendation systems.
 
 
