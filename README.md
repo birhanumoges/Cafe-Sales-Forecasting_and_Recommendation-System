@@ -1,10 +1,10 @@
-# ☕ Cafe Sales Forecasting & Recommendation System
+#  Cafe Sales Forecasting & Recommendation System
 
 This project applies data science techniques to analyzes and forecasts sales trends for a cafe using transactional data. It includes **sales prediction**, **regional sales analysis**, **product clustering**, and a **recommendation system**, offering practical insights for improving operations, inventory, and marketing strategies.
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 - [Introduction](#introduction)  
   - Background
   - Problem Statement
@@ -27,7 +27,7 @@ This project applies data science techniques to analyzes and forecasts sales tre
 
 ## Introduction
 
-### 📖 Background
+###  Background
 The dataset, obtained from Kaggle, contains transactional records from a cafe. Each entry includes item name, quantity sold, unit price, total amount, payment type, location, and date of sale.
 
 ### Problem Statement
@@ -92,7 +92,7 @@ The findings help:
 
 ## Modeling
 
-### 🔮 Predictive Modeling
+###  Predictive Modeling
 
 #### Feature Preparation
 - Encoded categorical variables
@@ -116,7 +116,7 @@ The findings help:
 
 ---
 
-### 🌍 Sales Analysis by Region
+###  Sales Analysis by Region
 
 #### Objective
 To compare performance across different locations and support regional planning.
@@ -146,15 +146,15 @@ To compare performance across different locations and support regional planning.
 
 | Cluster | Items                    | Avg Revenue | Type            |
 |---------|--------------------------|-------------|-----------------|
-| 1       | Juice                    | 4,335.89    | 🏆 Top Performer |
-| 2       | Coffee, Cake, Sandwich   | ~2,369      | 🎯 Mid Tier      |
-| 0       | Tea, Cookie              | 1,549.18    | ⚠️ Low Performer |
+| 1       | Juice                    | 4,335.89    |  Top Performer |
+| 2       | Coffee, Cake, Sandwich   | ~2,369      |  Mid Tier      |
+| 0       | Tea, Cookie              | 1,549.18    |  Low Performer |
 
 - Silhouette Score: **0.35** (moderate separation)
 
 ---
 
-### 🧠 Product Recommendation System
+###  Product Recommendation System
 
 #### Overview
 Built a content-based recommendation system to suggest item pairs.
@@ -179,12 +179,12 @@ If a customer buys a **Sandwich**, recommend:
 
 ## Key Insights
 
-- ✅ **Random Forest** outperforms Linear Regression for predicting total sales.
-- ✅ The **Decision Tree** model, while simpler, underperformed (R² = 0.795, MSE = 0.0726)
-- 📈 **Takeaway** sales show strong positive growth, while **In-Store** channels are declining.
-- 🍹 **Juice** is the highest-performing product.
-- 🍚 **Tea** and **Cookie** underperform and may need pricing/menu optimization.
-- 🍰 **Sandwich** pairs well with other high-volume products—ideal for promotions.
+-  **Random Forest** outperforms Linear Regression for predicting total sales.
+-  The **Decision Tree** model, while simpler, underperformed (R² = 0.795, MSE = 0.0726)
+-  **Takeaway** sales show strong positive growth, while **In-Store** channels are declining.
+-  **Juice** is the highest-performing product.
+-  **Tea** and **Cookie** underperform and may need pricing/menu optimization.
+-  **Sandwich** pairs well with other high-volume products—ideal for promotions.
 
 ---
 
