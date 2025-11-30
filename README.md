@@ -200,6 +200,12 @@ It's offers a complete analytical framework to improve sales forecasting,improve
 ---
 ### future idea
 - Add AI recommendation system
-- interactive dashboard 
+- interactive dashboard
+### My stack
+- Python
+
+### Inspiration
+- Data Science blogs & competitions
+- Open-source ML projects
 
 
