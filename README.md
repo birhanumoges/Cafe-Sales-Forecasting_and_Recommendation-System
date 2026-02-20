@@ -1,3 +1,4 @@
+This project applies data science techniques to analyzes and forecasts sales trends for a cafe using transactional data.
 
 #  Cafe Sales Forecasting & Recommendation System
 
